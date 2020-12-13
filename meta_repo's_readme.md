@@ -2,5 +2,6 @@
 title: meta repo's readme
 ---
 meta for knowledge study
-## this repo for leo's study on:
-## effiency
+## this repo for leo's collection and study on some meta-s:
+## effient learning
+##
