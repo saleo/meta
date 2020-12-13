@@ -1,5 +1,5 @@
 ---
-title: logseq
+title: logseq_explore
 ---
 
-## 
+##
