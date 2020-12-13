@@ -3,6 +3,6 @@ title: logseq_explore
 ---
 
 ## terms
-### whole
-### block = paragraph?
+### whole picture
+### block = paragraph? and star with a dot?
 ##
